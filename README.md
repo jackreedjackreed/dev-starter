@@ -1,4 +1,4 @@
-# Finsweet Developer Starter
+# Jack's Developer Starter
 
 A starter template for both Client & Power projects.
 
